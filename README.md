@@ -10,7 +10,7 @@ model-index:
 ---
 # colab_text_generation_FT_opt_on_dolly_UT_V2
 
-This model is a fine-tuned version of [facebook/opt-350m](https://huggingface.co/facebook/opt-350m) on argilla/databricks-dolly-15k-(https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en)
+This model is a fine-tuned version of [facebook/opt-350m](https://huggingface.co/facebook/opt-350m) on [argilla/databricks-dolly-15k](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en)
 
 ## Model description
 
