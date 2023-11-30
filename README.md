@@ -8,13 +8,9 @@ model-index:
 - name: colab_text_generation_FT_opt_on_dolly_UT_V2
   results: []
 ---
-
-<!-- This model card has been generated automatically according to the information the Trainer had access to. You
-should probably proofread and complete it, then remove this comment. -->
-
 # colab_text_generation_FT_opt_on_dolly_UT_V2
 
-This model is a fine-tuned version of [facebook/opt-350m](https://huggingface.co/facebook/opt-350m) on argilla/databricks-dolly-15k.
+This model is a fine-tuned version of [facebook/opt-350m](https://huggingface.co/facebook/opt-350m) on argilla/databricks-dolly-15k-(https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en)
 
 ## Model description
 
